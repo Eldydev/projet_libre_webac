@@ -1,1 +1,8 @@
-lolsqv
+home page :
+    park localisation
+    filtres localisation
+    onclick: page park
+
+page park :
+    attractions ( notes , photo , desc)
+    onlick ( comm, add comm, add photo, loca dans park)
