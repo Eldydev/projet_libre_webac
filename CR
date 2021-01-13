@@ -1,8 +1,12 @@
-home page :
-    park localisation
-    filtres localisation
-    onclick: page park
 
-page park :
-    attractions ( notes , photo , desc)
-    onlick ( comm, add comm, add photo, loca dans park)
+Tâches prévues :
+    - Home page 
+
+Tâches effectuées :
+    - plan des tâches
+    - organisation projet
+
+Problèmes rencontrés :
+
+Tâches prévues pour le jour suivant :
+    home page

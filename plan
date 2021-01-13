@@ -1,1 +1,25 @@
-test
+
+Home page :
+    - bouton login
+    - banniere
+    - liste parc -> component parc -> mapping
+    - liste parc par geolocalisation
+
+    tout le site est accessible sans login, mais du coup pas de notation ni commentaires
+
+login :
+    - login form 
+    - bouton sign up si pas de login
+    - securité 
+
+sign up :
+    - sign up form
+
+profil :
+    - édition profil
+
+parc : 
+    - affichage carte du parc 
+    - note global parc
+    - commentaires parc / notation / photos
+    - tri commentaires
